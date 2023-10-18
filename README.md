@@ -3,20 +3,20 @@
 - Quoted and assembled Hardware products
 - Group: 7
 
-# Members:
-- Benjamin Serrano
+### Members:
+- Benjamín Serrano
 - Carlos Iturra
-- Joaquin Escanilla
+- Joaquín Escanilla
 - Sebastián Torres
 
-# Strategy
+## Strategy
 Value Proposition Canvas
-# Scope
+## Scope
 UX Person
 Benchmark
-# Structure
+## Structure
 Navigability
-# Skeleton
+## Skeleton
 Wireframes
-# Surface
+## Surface
 Mockups
