@@ -1,6 +1,6 @@
 # ArmaTec
 - UDX Second Semester Project 2023
-- Quoted and assembled Hardware products
+- Quoted and assembled hardware products
 - Group: 7
 
 ### Members:
