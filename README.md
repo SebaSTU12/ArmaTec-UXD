@@ -10,13 +10,13 @@
 - Sebastián Torres
 
 ## Strategy
-Value Proposition Canvas
+- Value Proposition Canvas
 ## Scope
-UX Person
-Benchmark
+- UX Person
+- Benchmark
 ## Structure
-Navigability
+- Navigability
 ## Skeleton
-Wireframes
+- Wireframes
 ## Surface
-Mockups
+- Mockups
