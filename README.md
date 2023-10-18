@@ -3,7 +3,7 @@
 - Quoted and assembled Hardware products
 
 # Members:
-+ Benjamin Serrano
-+ Carlos Iturra
-+ Joaquin Escanilla
-+ Sebastián Torres
+-- Benjamin Serrano
+-- Carlos Iturra
+-- Joaquin Escanilla
+-- Sebastián Torres
