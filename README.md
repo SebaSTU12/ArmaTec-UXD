@@ -8,3 +8,13 @@
 - Carlos Iturra
 - Joaquin Escanilla
 - Sebastián Torres
+
+# Strategy
+
+# Scope
+
+# Structure
+
+# Skeleton
+
+# Surface
