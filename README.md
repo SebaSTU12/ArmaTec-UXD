@@ -10,7 +10,7 @@
 - Sebastián Torres
 
 # Strategy
-
+Canvas
 # Scope
 
 # Structure
