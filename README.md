@@ -1,8 +1,8 @@
 # ArmaTec-UXD
-- Proyecto Segundo Semestre UDX 2023
-- Cotizado y armado de productos de Hardware
+- UDX Second Semester Project 2023
+- Quoted and assembled Hardware products
 
-# Integrantes:
+# Members:
 Benjamin Serrano
 Carlos Iturra
 Joaquin Escanilla
