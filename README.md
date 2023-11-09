@@ -8,7 +8,7 @@
 - Benjamín Serrano
 - Sebastián Torres
 ## Description 
-sadjsakdjsadkasjdk
+Our mobile application enables users to create custom quotations from scratch, guiding them through a series of questions about their intended use. Additionally, users can explore quotations created by others, give them a 'like,' and assemble their computer based on a pre-existing quotation.
 ## Index
 - [Strategy](#strategy)
 - [Scope](#scope)
