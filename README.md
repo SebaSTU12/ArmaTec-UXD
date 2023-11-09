@@ -14,6 +14,7 @@
 - Carlos Iturra
 - Benjamín Serrano
 - Sebastián Torres
+## Description 
 
 ## Strategy
 - Value Proposition Canvas
