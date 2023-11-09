@@ -16,15 +16,15 @@ Our mobile application enables users to create custom quotations from scratch, g
 - [Skeleton](#skeleton)
 - [Surface](#surface)
 ## Strategy
-- Value Proposition Canvas
+### Value Proposition Canvas
 ![CANVA VALUE PROPOSITION](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/64b3ee25-03c3-40e1-8c28-bfbfb2fe5b31)
 ## Scope
-- UX Person
-- Customer Journeymap
-- Benchmarking
+### UX Person
+### Customer Journeymap
+### Benchmarking
 ![Benchmarking](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/09a81d23-ac71-4121-aaca-e5013eff9367)
 ## Structure
-- Navigability
+### Navigability
 ## Skeleton
 - Wireframes
 ## Surface
