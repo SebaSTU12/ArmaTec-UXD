@@ -21,7 +21,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 ## Scope
 - UX Person
 - Customer Journeymap
-- Benchmark
+- Benchmarking
 ![Benchmarking](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/09a81d23-ac71-4121-aaca-e5013eff9367)
 ## Structure
 - Navigability
