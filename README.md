@@ -28,6 +28,7 @@ The next step after establishing the initial strategy is to define the scope by 
 ![Camila Ugarte](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/1f82d16f-d88b-42d2-ada8-9f65c06d64d9)
 
 ![Felipe Flores](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/06d8eb7c-479e-4ec2-8503-46a72a682177)
+
 Subsequently, a customer journey map was crafted to visualize how the user's experience would unfold within the application.
 ### Customer Journeymap
 ![Customer Journey Map](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/5efeaf05-8d86-42a5-b073-e61b14deff79)
