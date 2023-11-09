@@ -17,6 +17,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 - [Surface](#surface)
 ## Strategy
 ### Value Proposition Canvas
+The first action to kickstart the project is to create a 'Value Proposition Canvas,' allowing us to formulate an initial strategy upon which we will build our app.
 ![CANVA VALUE PROPOSITION](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/64b3ee25-03c3-40e1-8c28-bfbfb2fe5b31)
 Our canvas for the PC quoting and assembly application acts as the strategic heart of our project. In this canvas, we have meticulously outlined the various aspects that compose the value of our application. From cost management to feature optimization, this canvas serves as a detailed map guiding our decisions and actions. By clearly organizing essential components, it facilitates informed decision-making and ensures that each element contributes significantly to the effectiveness and ongoing success of the application.
 ## Scope
