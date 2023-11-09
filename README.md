@@ -2,6 +2,12 @@
 - UDX Second Semester Project 2023
 - Quoted and assembled hardware products
 - Group: 7
+## Index
+- [Strategy](#strategy)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+- [Surface](#surface)
 
 ### Members:
 - Benjamín Serrano
