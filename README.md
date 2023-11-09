@@ -19,9 +19,9 @@
 ## Strategy
 - Value Proposition Canvas
 ## Scope
-- UX Person
-- Customer Journeymap
-- Benchmark
+### UX Person
+### Customer Journeymap
+### Benchmark
 ## Structure
 - Navigability
 ## Skeleton
