@@ -10,9 +10,9 @@
 - [Surface](#surface)
 
 ### Members:
-- Benjamín Serrano
-- Carlos Iturra
 - Joaquín Escanilla
+- Carlos Iturra
+- Benjamín Serrano
 - Sebastián Torres
 
 ## Strategy
