@@ -26,7 +26,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 
 ![Felipe Flores](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/06d8eb7c-479e-4ec2-8503-46a72a682177)
 ### Customer Journeymap
-![Customer Journey Map](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/3bf0dbfc-e4d4-4c2d-81e8-93bf589cf09f)
+![Customer Journey Map](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/5efeaf05-8d86-42a5-b073-e61b14deff79)
 ### Benchmarking
 ![Benchmarking](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/09a81d23-ac71-4121-aaca-e5013eff9367)
 ## Structure
