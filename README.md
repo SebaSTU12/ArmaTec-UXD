@@ -21,7 +21,9 @@ Our mobile application enables users to create custom quotations from scratch, g
 ## Scope
 ### UX Person
 ![Diana Ponce](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/559ec37a-e4ea-463d-99e2-b5a11ae11340)
+
 ![Camila Ugarte](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/1f82d16f-d88b-42d2-ada8-9f65c06d64d9)
+
 ![Felipe Flores](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/06d8eb7c-479e-4ec2-8503-46a72a682177)
 ### Customer Journeymap
 ![Customer Journey Map  png](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/40c75736-0b81-4838-9fbe-c0c9da8be8da)
