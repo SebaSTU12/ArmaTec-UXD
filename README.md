@@ -30,7 +30,8 @@ Our mobile application enables users to create custom quotations from scratch, g
 ### Benchmarking
 ![Benchmarking](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/09a81d23-ac71-4121-aaca-e5013eff9367)
 ## Structure
-### Navigability
+### Navigation
+![Frame 7](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/f46948df-d3d6-4c21-b877-e22aa57b2159)
 ## Skeleton
 - Wireframes
 ## Surface
