@@ -2,7 +2,7 @@
 - UXD Second Semester Project 2023
 - Quoted and assembled hardware products
 - Group: 7
-### Members:
+## Members:
 - Joaquín Escanilla
 - Carlos Iturra
 - Benjamín Serrano
@@ -33,8 +33,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 ### Navigation
 ![Frame 7](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/f46948df-d3d6-4c21-b877-e22aa57b2159)
 ## Skeleton
-- Wireframes
-
+### Wireframes
 [Enlace al archivo.pdf](https://github.com/SebaSTU12/ArmaTec-UXD/files/13303582/Wireframes.pdf)
 ## Surface
-- Mockups
+### Mockups
