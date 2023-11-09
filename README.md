@@ -18,6 +18,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 ## Strategy
 ### Value Proposition Canvas
 ![CANVA VALUE PROPOSITION](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/64b3ee25-03c3-40e1-8c28-bfbfb2fe5b31)
+Our canvas for the PC quoting and assembly application acts as the strategic heart of our project. In this canvas, we have meticulously outlined the various aspects that compose the value of our application. From cost management to feature optimization, this canvas serves as a detailed map guiding our decisions and actions. By clearly organizing essential components, it facilitates informed decision-making and ensures that each element contributes significantly to the effectiveness and ongoing success of the application.
 ## Scope
 ### UX Person
 ![Diana Ponce](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/559ec37a-e4ea-463d-99e2-b5a11ae11340)
@@ -25,6 +26,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 ![Camila Ugarte](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/1f82d16f-d88b-42d2-ada8-9f65c06d64d9)
 
 ![Felipe Flores](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/06d8eb7c-479e-4ec2-8503-46a72a682177)
+
 ### Customer Journeymap
 ![Customer Journey Map](https://github.com/SebaSTU12/ArmaTec-UXD/assets/108956185/5efeaf05-8d86-42a5-b073-e61b14deff79)
 ### Benchmarking
