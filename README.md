@@ -18,7 +18,7 @@ Our mobile application enables users to create custom quotations from scratch, g
 ## Strategy
 ### Value Proposition Canvas
 The first action to kickstart the project is to create a 'Value Proposition Canvas,' allowing us to formulate an initial strategy upon which we will build our app.
-![Value Canvas Proposition](/Deliverables/Value Proposition Canvas - Proyecto UXD.png)
+![Value Canvas Proposition](/Deliverables/Value%20Proposition%20Canvas%20-%20Proyecto%20UXD.png) 
 Our canvas for the PC quoting and assembly application acts as the strategic heart of our project. In this canvas, we have meticulously outlined the various aspects that compose the value of our application. From cost management to feature optimization, this canvas serves as a detailed map guiding our decisions and actions. By clearly organizing essential components, it facilitates informed decision-making and ensures that each element contributes significantly to the effectiveness and ongoing success of the application.
 ## Scope
 The next step after establishing the initial strategy is to define the scope by creating 'UX Personas.' This will provide a clear understanding of potential users for our app.
