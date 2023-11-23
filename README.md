@@ -23,25 +23,25 @@ Our canvas for the PC quoting and assembly application acts as the strategic hea
 ## Scope
 The next step after establishing the initial strategy is to define the scope by creating 'UX Personas.' This will provide a clear understanding of potential users for our app.
 ### UX Person
-![Diana Ponce](/Deriverables/DianaPonce.pnga)
+![Diana Ponce](/Deriverables/DianaPonce.png)
 
-![Camila Ugarte](/Deliverables/CamilaUgarte.pnga)
+![Camila Ugarte](/Deliverables/CamilaUgarte.png)
 
-![Felipe Flores](/Deliverables/FelipeFlores.pnga)
+![Felipe Flores](/Deliverables/FelipeFlores.png)
 
 Subsequently, a customer journey map was crafted to visualize how the user's experience would unfold within the application.
 ### Customer Journey map
-![CustomerJourneyMap](/Deliverables/CustomerJourneyMap.pnga)
+![CustomerJourneyMap](/Deliverables/CustomerJourneyMap.png)
 
 We developed a benchmark to assess and compare our performance with other similar apps and websites. This provides key insights for improvement, ensuring that our application stands out in terms of innovation and effectiveness.
 ### Benchmarking
-![Benchmarking](/Deliverables/Benchmarking.pnga)
+![Benchmarking](/Deliverables/Benchmarking.png)
 ## Structure
 ### Navigation
-![Navigation](/Deliverables/Navigation.pnga)
+![Navigation](/Deliverables/Navigation.png)
 ## Skeleton
 ### Wireframes
-- [Full document here](/Deliverables/Wireframes.pdfa)
+- [Full document here](/Deliverables/Wireframes.pdf)
 ## Surface
 ### Mockups
-- [Full document here](/Deliverables/Mockups.pdfa)
+- [Full document here](/Deliverables/Mockups.pdf)
