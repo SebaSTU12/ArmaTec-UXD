@@ -1,5 +1,5 @@
 # ArmaTec
-- aUXD Second Semester Project 2023
+- UXD Second Semester Project 2023
 - Quoted and assembled hardware products
 - Group: 7
 ## Members:
