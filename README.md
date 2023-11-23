@@ -23,7 +23,7 @@ Our canvas for the PC quoting and assembly application acts as the strategic hea
 ## Scope
 The next step after establishing the initial strategy is to define the scope by creating 'UX Personas.' This will provide a clear understanding of potential users for our app.
 ### UX Person
-![Diana Ponce](/Deriverables/Diana%20Ponce.png)
+![Diana Ponce](/Deriverables/DianaPonce.png)
 
 ![Camila Ugarte](/Deliverables/CamilaUgarte.png)
 
