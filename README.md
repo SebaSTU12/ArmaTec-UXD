@@ -8,7 +8,10 @@
 - Benjamín Serrano
 - Sebastián Torres
 ## Description 
-Our mobile application enables users to create custom quotations from scratch, guiding them through a series of questions about their intended use. Additionally, users can explore quotations created by others, give them a 'like,' and assemble their computer based on a pre-existing quotation.
+
+Assembling a computer that meets each person's needs can be a highly satisfying task, but it can also pose numerous challenges without the necessary knowledge. To avoid potential issues and enjoy a seamless experience, "ArmaTec" has been created. ArmaTec is a mobile application designed to assist users of all kinds who want to purchase a pre-built computer tailored to their specific needs without the requirement of extensive knowledge in computer assembly.
+
+This application aims to help individuals with limited computer knowledge who seek to buy a computer for specific needs they may not know how to address due to their lack of expertise. This is achieved through the use of selectors that contain easy-to-understand descriptions, such as "Computer for playing League of Legends" or "Computer for office work." Additionally, ArmaTec features a section for generating quotes in case the user has knowledge of computer hardware. It also includes a comparator to easily review which components offer more advantages over others, facilitating the process of building a customized computer.
 ## Index
 - [Strategy](#strategy)
 - [Scope](#scope)
