@@ -21,7 +21,9 @@ This application aims to help individuals with limited computer knowledge who se
 ## Strategy
 ### Value Proposition Canvas
 The first action to kickstart the project is to create a 'Value Proposition Canvas,' allowing us to formulate an initial strategy upon which we will build our app.
+
 ![Value Canvas Proposition](/Deliverables/ValuePropositionCanvas-ProyectoUXD.png) 
+
 Our canvas for the PC quoting and assembly application acts as the strategic heart of our project. In this canvas, we have meticulously outlined the various aspects that compose the value of our application. From cost management to feature optimization, this canvas serves as a detailed map guiding our decisions and actions. By clearly organizing essential components, it facilitates informed decision-making and ensures that each element contributes significantly to the effectiveness and ongoing success of the application.
 ## Scope
 The next step after establishing the initial strategy is to define the scope by creating 'UX Personas.' This will provide a clear understanding of potential users for our app.
@@ -39,7 +41,10 @@ Subsequently, a customer journey map was crafted to visualize how the user's exp
 We developed a benchmark to assess and compare our performance with other similar apps and websites. This provides key insights for improvement, ensuring that our application stands out in terms of innovation and effectiveness.
 ### Benchmarking
 A benchmark helps us compare and evaluate competitors for our app. In our case, we selected PC Factory, Solotodo, Central Gamer, and PC Part Picker to compare them with ArmaTec. This way, we can have a clear idea to differentiate our app from others that offer similar services.
+
 ![Benchmarking](/Deliverables/Benchmarking.png)
+
+As we can see in the benchmark, our app will include the most commonly used services of the competition, adding as a distinctive feature that the user specifies their requirements and the application recommends options based on that. This way, our app saves time for its users, in addition to making the computer selection process easier for users who do not have technical or advanced knowledge about PC components.
 ## Structure
 ### Navigation
 ![Navigation](/Deliverables/Navigation.png)
