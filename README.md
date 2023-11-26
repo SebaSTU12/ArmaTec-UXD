@@ -38,6 +38,7 @@ Subsequently, a customer journey map was crafted to visualize how the user's exp
 
 We developed a benchmark to assess and compare our performance with other similar apps and websites. This provides key insights for improvement, ensuring that our application stands out in terms of innovation and effectiveness.
 ### Benchmarking
+A benchmark helps us compare and evaluate competitors for our app. In our case, we selected PC Factory, Solotodo, Central Gamer, and PC Part Picker to compare them with ArmaTec. This way, we can have a clear idea to differentiate our app from others that offer similar services.
 ![Benchmarking](/Deliverables/Benchmarking.png)
 ## Structure
 ### Navigation
