@@ -36,7 +36,7 @@ The next step after establishing the initial strategy is to define the scope by 
 
 Subsequently, a customer journey map was crafted to visualize how the user's experience would unfold within the application.
 ### Customer Journey map
-![CustomerJourneyMap](/Deliverables/CustomerJourneyMap.png)
+
 
 We developed a benchmark to assess and compare our performance with other similar apps and websites. This provides key insights for improvement, ensuring that our application stands out in terms of innovation and effectiveness.
 ### Benchmarking
