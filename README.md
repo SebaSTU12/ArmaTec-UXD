@@ -36,7 +36,7 @@ The next step after establishing the initial strategy is to define the scope by 
 
 Subsequently, a customer journey map was crafted to visualize how the user's experience would unfold within the application.
 ### Customer Journey map
-
+![Customer Journey Map](/Deliverables/CustomerJourneyMap.png)
 
 ### Benchmarking
 A benchmark helps us compare and evaluate competitors for our app. In our case, we selected PC Factory, Solotodo, Central Gamer, and PC Part Picker to compare them with ArmaTec. This way, we can have a clear idea to differentiate our app from others that offer similar services.
