@@ -57,12 +57,12 @@ In the benchmarking process, no changes were made as the feedback received did n
 ## Structure
 
 ### Navigation
-![Navigation]
+![Navigation](/Deliverables/Navigation.png)
 
 By almost completely changing the functionalities and focus of our application, new views emerged, leading to a significant alteration in navigation. Additionally, in the previous version, there were some missing views that have now been addressed effectively to ensure none are omitted.
 ## Skeleton
 ### Wireframes
-- [Full document here]
+- [Full document here](/Deliverables/Wireframes.pdf)
 - [Figma here] (https://www.figma.com/file/u9Y3y9E1Ks632wU2FAn9VW/ArmaTec?type=design&node-id=0%3A1&mode=design&t=Tqaag2z96PlkaF3y-1).
   
   Given the nearly complete overhaul of our app and its views, the wireframes are entirely new compared to those previously presented.
