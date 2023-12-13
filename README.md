@@ -68,7 +68,7 @@ By almost completely changing the functionalities and focus of our application, 
   Given the nearly complete overhaul of our app and its views, the wireframes are entirely new compared to those previously presented.
 ## Surface
 ### Mockups
-- [Full document here]
+- [Full document here](/Deliverables/Mockups.pdf)
 - [Figma here] (https://www.figma.com/file/u9Y3y9E1Ks632wU2FAn9VW/ArmaTec?type=design&node-id=0%3A1&mode=design&t=Tqaag2z96PlkaF3y-1).
 
   The most noticeable difference lies in our HD frames, especially considering that in the previous delivery, it was mentioned that they didn't differ much from the wireframes. This time, we opted for a less minimalist approach, successfully creating a clear distinction between the wireframes and the HD representations.
