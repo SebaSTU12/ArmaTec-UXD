@@ -34,22 +34,39 @@ The next step after establishing the initial strategy is to define the scope by 
 
 ![Felipe Flores](/Deliverables/FelipeFlores.png)
 
+
 Subsequently, a customer journey map was crafted to visualize how the user's experience would unfold within the application.
+
+After our initial delivery, the significant changes to the UX persons adding more complexity to provide a greater context for why individuals would use our application. Additionally, there was a shift towards a simpler and more readable design.
 ### Customer Journey map
 ![Customer Journey Map](/Deliverables/CustomerJourneyMap.png)
+
+In the first Customer Journey Mapping (CMJ), based on the feedback we received, it became apparent that our application planning was flawed. As a result, it helped us create a new one where we could represent it more clearly, demonstrating that our application is now user-friendly. This is in contrast to the previous version, where the emotions depicted were mostly negative.
 
 ### Benchmarking
 A benchmark helps us compare and evaluate competitors for our app. In our case, we selected PC Factory, Solotodo, Central Gamer, and PC Part Picker to compare them with ArmaTec. This way, we can have a clear idea to differentiate our app from others that offer similar services.
 
+
 ![Benchmarking](/Deliverables/Benchmarking.png)
 
+
+
 As we can see in the benchmark, our app will include the most commonly used services of the competition, adding as a distinctive feature that the user specifies their requirements and the application recommends options based on that. This way, our app saves time for its users, in addition to making the computer selection process easier for users who do not have technical or advanced knowledge about PC components.
+
+In the benchmarking process, no changes were made as the feedback received did not provide indications of necessary adjustments.
 ## Structure
+
 ### Navigation
 ![Navigation](/Deliverables/Navigation.png)
+
+By almost completely changing the functionalities and focus of our application, new views emerged, leading to a significant alteration in navigation. Additionally, in the previous version, there were some missing views that have now been addressed effectively to ensure none are omitted.
 ## Skeleton
 ### Wireframes
 - [Full document here](/Deliverables/Wireframes.pdf)
+  
+  Given the nearly complete overhaul of our app and its views, the wireframes are entirely new compared to those previously presented.
 ## Surface
 ### Mockups
 - [Full document here](/Deliverables/Mockups.pdf)
+
+  The most noticeable difference lies in our HD frames, especially considering that in the previous delivery, it was mentioned that they didn't differ much from the wireframes. This time, we opted for a less minimalist approach, successfully creating a clear distinction between the wireframes and the HD representations.
