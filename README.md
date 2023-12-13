@@ -57,7 +57,7 @@ In the benchmarking process, no changes were made as the feedback received did n
 ## Structure
 
 ### Navigation
-![Navigation](/Deliverables/Navigation.png)
+![Navigation](/Deliverables/Navigationa.png)
 
 By almost completely changing the functionalities and focus of our application, new views emerged, leading to a significant alteration in navigation. Additionally, in the previous version, there were some missing views that have now been addressed effectively to ensure none are omitted.
 ## Skeleton
